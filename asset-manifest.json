@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/custom-form-validator-react-js/static/css/main.db62923b.css",
-    "main.js": "/custom-form-validator-react-js/static/js/main.35583adb.js",
+    "main.css": "/custom-form-validator-react-js/static/css/main.ff02f4b5.css",
+    "main.js": "/custom-form-validator-react-js/static/js/main.1ca6c001.js",
     "static/js/453.894cf0fc.chunk.js": "/custom-form-validator-react-js/static/js/453.894cf0fc.chunk.js",
-    "static/media/logo.svg": "/custom-form-validator-react-js/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/custom-form-validator-react-js/index.html",
-    "main.db62923b.css.map": "/custom-form-validator-react-js/static/css/main.db62923b.css.map",
-    "main.35583adb.js.map": "/custom-form-validator-react-js/static/js/main.35583adb.js.map",
+    "main.ff02f4b5.css.map": "/custom-form-validator-react-js/static/css/main.ff02f4b5.css.map",
+    "main.1ca6c001.js.map": "/custom-form-validator-react-js/static/js/main.1ca6c001.js.map",
     "453.894cf0fc.chunk.js.map": "/custom-form-validator-react-js/static/js/453.894cf0fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db62923b.css",
-    "static/js/main.35583adb.js"
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.1ca6c001.js"
   ]
 }
