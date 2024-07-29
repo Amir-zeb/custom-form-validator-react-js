@@ -1,3 +1,4 @@
+// src/App.jsx
 import * as React from 'react';
 import './App.css';
 import InputField from "./components/InputField";
