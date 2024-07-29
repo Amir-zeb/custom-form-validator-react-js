@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-6">
+        <div className="col-12 col-md-6">
           <h4 className="text-center mt-3 fw-bold">Registration Form</h4>
           <form novalidate autoComplete='off' onSubmit={handleSubmit}>
             <div className="row mb-2">
