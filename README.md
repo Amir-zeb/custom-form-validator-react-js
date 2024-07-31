@@ -2,6 +2,10 @@
 
 This project is a simple registration form built using React, with custom validation based on a predefined schema. The form includes fields for first name, last name, email, phone number, password, and confirm password. The form data is validated against specific criteria before submission.
 
+## Live Demo
+
+- https://amir-zeb.github.io/custom-form-validator-react-js/
+
 ## Features
 
 - Custom form validation using a predefined schema
